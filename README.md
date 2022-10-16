@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SunilBalas
-- 👀 I’m interested in Machine Learning, Deep learning, Web Development, App Development, etc.
+- 👀 I’m interested in Machine Learning, Deep learning, Natural Language Processing, Web Development etc.
 - 🌱 I’m currently learning Deep Learning
 
 <!---
