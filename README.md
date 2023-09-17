@@ -26,7 +26,7 @@
         },
         currentFocus: "Focus on learning new things at this time",
         funFact: "First rule of programming, if it works then don't touch it !😀"
-    };
+    }
 ```
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s.b.a.l.a.s) 
