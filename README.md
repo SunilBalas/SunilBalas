@@ -9,7 +9,7 @@
 
     sbalas = {
         pronouns: "He" | "Him",
-        code: ["Python", "JavaScript", "C", "C#", "Java", "PHP"],
+        code: ["Python", "JavaScript", "C", "C#", "Java"],
         talksAbout: ["Web Dev", "Tech", "Programming", "Machine Learning"],
         technologies: {
             backEnd: {
