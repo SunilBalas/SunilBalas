@@ -1,5 +1,4 @@
-# 💫 About Me:
-## नमस्ते (Namaste) !! 🙏 
+# 🙏 नमस्ते (Namaste) !! 💫 
 #### I am Sunil Balas, a 23 years old Software Engineer from India.<br>
 💼 _Associate Software Engineer at [Casepoint LLC](https://www.casepoint.com/)_
 
