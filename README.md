@@ -16,11 +16,8 @@
                 python: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "Flask"],
                 web-dev: ["HTML", "CSS", "JavaScript", "jQuery", "ReactJS"]
             },
-            mobileApp: {
-                native: ["Android Development"]
-            },
             databases: ["MySQL", "PostgreSQL", "Redis"],
-            tools: ["Postman"],
+            tools: ["Visual Studio Code", "Git", "Github" ,"Postman"],
             frameworks: ["Scrapy", ".Net"]
         },
         currentFocus: "Focus on learning new things at this time",
