@@ -1,5 +1,5 @@
 # 🙏 नमस्ते (Namaste) !! 💫 
-#### I am Sunil Balas, a 24 years old Software Engineer from India.<br>
+#### I am Sunil Balas, a 25 years old Software Engineer from India.<br>
 💼 _Software Engineer at [Casepoint LLC](https://www.casepoint.com/)_
 
 ## Let's get started...!
@@ -10,7 +10,7 @@
     sbalas = {
         pronouns: "He" | "Him",
         code: ["Python", "JavaScript", "C", "C#", "Java"],
-        talksAbout: ["Web Dev", "Tech", "Programming", "Machine Learning"],
+        talksAbout: ["Web Dev", "Tech", "Programming", "Machine Learning", "Statistics"],
         technologies: {
             backEnd: {
                 python: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "Flask"],
@@ -20,7 +20,7 @@
             tools: ["Visual Studio Code", "Git", "Github" ,"Postman"],
             frameworks: ["Scrapy", ".Net"]
         },
-        currentFocus: "Focus on learning new things at this time",
+        currentFocus: ["Deep Learning", "Generative AI", "LLMs"],
         funFact: "First rule of programming, if it works then don't touch it !😀"
     }
 ```
