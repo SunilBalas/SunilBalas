@@ -10,17 +10,16 @@
     sbalas = {
         pronouns: "He" | "Him",
         code: ["Python", "JavaScript", "C", "C#", "Java"],
-        talksAbout: ["Web Dev", "Tech", "Programming", "Machine Learning", "Statistics"],
+        talksAbout: ["Web Dev", "Tech", "Programming", "Machine Learning", "Statistics", "Generative AI", "LLMs"],
         technologies: {
             backEnd: {
                 python: ["NumPy", "Pandas", "Matplotlib", "Seaborn", "Scikit-Learn", "Flask"],
                 web-dev: ["HTML", "CSS", "JavaScript", "jQuery", "ReactJS"]
             },
-            databases: ["MySQL", "PostgreSQL", "Redis"],
+            databases: ["MySQL", "PostgreSQL", "SQL Server", "Redis"],
             tools: ["Visual Studio Code", "Git", "Github" ,"Postman"],
             frameworks: ["Scrapy", ".Net"]
         },
-        currentFocus: ["Deep Learning", "Generative AI", "LLMs"],
         funFact: "First rule of programming, if it works then don't touch it !😀"
     }
 ```
